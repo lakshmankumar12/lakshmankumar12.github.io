@@ -1,0 +1,19 @@
+Lakshman Kumar's Articles
+==========================
+:docinfo1:
+:last-update-label!:
+
+This is a collection of some articles I have written and shared.
+
+Technical
+----------
+
+* http://lakshmankumar12.github.io/web/memory_mgmt[Article on Memory Management for a process in linux]
+* http://lakshmankumar12.github.io/web/polymorphism[Article on comparing virtual function implementation in c++ and go]
+
+Personal Finance
+----------------
+
+* http://lakshmankumar12.github.io/web/rich-dad-poor-dad[Rich dad and poor dad]
+* http://lakshmankumar12.github.io/web/rd-returns[Importance of investing early]
+
