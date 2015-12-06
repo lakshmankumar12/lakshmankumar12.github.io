@@ -8,8 +8,9 @@ This is a collection of some articles I have written and shared.
 Technical
 ----------
 
-* http://lakshmankumar12.github.io/web/memory_mgmt[Article on Memory Management for a process in linux]
-* http://lakshmankumar12.github.io/web/polymorphism[Article on comparing virtual function implementation in c++ and go]
+* http://lakshmankumar12.github.io/web/memory_mgmt[Memory Management for a process in linux]
+* http://lakshmankumar12.github.io/web/polymorphism[Comparing virtual function implementation in c++ and go]
+* http://lakshmankumar12.github.io/web/const_pointers[Casting non-const to const pointers]
 
 Personal Finance
 ----------------
