@@ -12,6 +12,7 @@ Technical
 * http://lakshmankumar12.github.io/web/polymorphism[Comparing virtual function implementation in c++ and go]
 * http://lakshmankumar12.github.io/web/const_pointers[Casting non-const to const pointers]
 * http://lakshmankumar12.github.io/web/umts_security[Security in UMTS Networks]
+* http://www.slideshare.net/lakshmankumar1212/introduction-to-3-g-mobile-networks[Presentation on UMTS Network to a few college students]
 
 Personal Finance
 ----------------
