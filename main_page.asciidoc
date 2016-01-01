@@ -13,6 +13,7 @@ Technical
 * http://lakshmankumar12.github.io/web/const_pointers[Casting non-const to const pointers]
 * http://lakshmankumar12.github.io/web/umts_security[Security in UMTS Networks]
 * http://www.slideshare.net/lakshmankumar1212/introduction-to-3-g-mobile-networks[Presentation on UMTS Network to a few college students]
+* http://www.slideshare.net/lakshmankumar1212/cpp-training[Presentation on C++ to colleages, all of us mostly from C background]
 
 Personal Finance
 ----------------
